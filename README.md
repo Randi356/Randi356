@@ -2,7 +2,7 @@
 
 ## Info
 
-Hi There, I'm Akshay, A 17 Y.O. Programmer From India.
+Hi There, I'm Rendy, A 17 Y.O. Programmer From indonesia.
 
 - :computer: I'm currently working on a "secret" project.
 - :school: I'm currently learning : cpp, react-native
